@@ -11,7 +11,7 @@ library(RMPSS)
 
 ?RMPSS_opt
 
-## MATLAB code is available in the MATLAB_codes folder
+## MATLAB code is available in the folder 'MATLAB_codes'. 
 
 ## CITATION
 
