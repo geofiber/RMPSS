@@ -1,12 +1,12 @@
 Package: RMPSS
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
+Title: Blackbox/global optimization over simplex constrained parameter space.
 Version: 1.0
 Date: 2019-09-24
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: One paragraph description of what the package does as one or more full
-         sentences.
+Author: Priyam Das
+Maintainer: Priyam Das <pdas@ncsu.edu>
+Description: RMPSS is a Pattern search based Blackbox optimization algorithm designed to optimize any function
+         with parameters belonging to unit simplex.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.2)
 LinkingTo: Rcpp
