@@ -1,6 +1,6 @@
 # RMPSS (R pacakge using C++ and MATLAB codes)
 
-Contains R package and MATLAB codes.
+Contains R package, C++ source code and MATLAB codes.
 
 ## To install the R package execute following code
 library(devtools) 
