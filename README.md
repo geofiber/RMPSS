@@ -1,4 +1,4 @@
-# RMPSS (R pacakge using C++ and MATLAB codes)
+# RMPSS (library : R pacakge using C++, MATLAB code)
 
 Contains R package, C++ source code and MATLAB codes.
 
